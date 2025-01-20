@@ -1,0 +1,5 @@
+**/home.DS_Store
+**/.build
+**/Packages
+**/*.xcodeproj
+**/xcuserdata/
